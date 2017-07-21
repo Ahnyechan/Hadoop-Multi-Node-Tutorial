@@ -1,6 +1,6 @@
 # Hadoop-Multi-Node-Tutorial
 
-# 사용 환경
+# Environment
 
 - Ubuntu 14.04 LTS 3 (1 Master, 2 Slaves)
 - Hadoop 2.6.5 
